@@ -1,0 +1,13 @@
+name: TempShiny
+title: TempShiny
+username:
+account: andreayang227
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5143313
+bundleId: 5260852
+url: https://andreayang227.shinyapps.io/TempShiny/
+when: 1637126664.23042
+lastSyncTime: 1637126664.23042
+asMultiple: FALSE
+asStatic: FALSE

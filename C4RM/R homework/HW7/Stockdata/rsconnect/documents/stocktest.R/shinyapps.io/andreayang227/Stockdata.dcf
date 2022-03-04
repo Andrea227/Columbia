@@ -1,0 +1,13 @@
+name: Stockdata
+title: Stockdata
+username:
+account: andreayang227
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5144355
+bundleId: 5261495
+url: https://andreayang227.shinyapps.io/Stockdata/
+when: 1637142712.90304
+lastSyncTime: 1637142712.90304
+asMultiple: FALSE
+asStatic: FALSE
